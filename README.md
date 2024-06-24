@@ -3,9 +3,9 @@
 I like conding, and it's also my work 💻
 
 - 🔭 I’m currently working on a side project, a move & delivery app.
-- 🌱 I’m currently learning DevOps practices.
+- 🌱 I’m currently preparing AWS solution architect certification exam.
 - 👯 I’m looking to collaborate on an open source project. 
-- 🤔 I’m looking for DevOps mentor.
+- 🤔 I’m looking for Cloud Architect mentor.
 - 💬 Ask me about React, Spring boot, Java, RabbitMQ ... any dev issue can interest me.
 - 📫 How to reach me: [@nabda101010](https://twitter.com/nabda101010).
 - ⚡ Fun fact: I start in music theory and piano practice.
